@@ -26,7 +26,7 @@ Villain Netcat Tool is a versatile Python-based network utility inspired by the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/naruto-net-tool.git
+   git clone https://github.com/villainXtanvir/villain-netcat.git
 
 1. Nagitive to project derectory:
    ```bash
